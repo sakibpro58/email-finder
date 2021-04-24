@@ -146,7 +146,7 @@ function onSubmit(e) {
     loadingCover.removeClass('show');
 
     // Set result
-    $('#result').html('Success! The email is: ' + data.email);
+    $('#result').html('I keep my promise! Here is the Email: ' + data.email);
 
     // Count the number of submissions
     sessionData.submissions++;
@@ -161,7 +161,7 @@ function onSubmit(e) {
     loadingCover.removeClass('show');
 
     // Set result
-    $('#result').html('There was a problem finding the email.');
+    $('#result').html('Opps, Sorry I tried but failed :(');
   });
 
   return false;
