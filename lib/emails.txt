@@ -1,3 +1,4 @@
+{{fi}}
 {{fi}}{{ln}}@{{domain}}
 {{fn}}@{{domain}}
 {{fn}}.{{ln}}@{{domain}}
