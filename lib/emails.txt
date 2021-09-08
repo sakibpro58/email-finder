@@ -3,10 +3,10 @@
 {{fn}}.{{ln}}@{{domain}}
 {{fn}}{{ln}}@{{domain}}
 {{ln}}@{{domain}}
+{{fn}}{{li}}@{{domain}}
 {{fn}}-{{ln}}@{{domain}}
 {{fn}}_{{ln}}@{{domain}}
 {{fi}}.{{ln}}@{{domain}}
-{{fn}}{{li}}@{{domain}}
 {{fn}}.{{li}}@{{domain}}
 {{fi}}{{li}}@{{domain}}
 {{fi}}.{{li}}@{{domain}}
