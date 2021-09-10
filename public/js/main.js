@@ -146,7 +146,7 @@ function onSubmit(e) {
     loadingCover.removeClass('show');
 
     // Set result
-    $('#result').html('I keep my promise! Here is the Email: ' + data.email);
+    $('#result').html('I keep my promise! Here is the Result: ' + data.email);
 
     // Count the number of submissions
     sessionData.submissions++;
