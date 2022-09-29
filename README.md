@@ -1,18 +1,11 @@
 # Email Finder
 
-![Email Finder Screenshot](https://email-finder.herokuapp.com/img/email-finder.png)
 
 ## Easily find any email address for free!
 
 This project will enable you to look up the actual email address of any person. All you need is their name and website domain.
 
 You can use this to find emails for free, or use it as the base to create your own email finding app.
-
-Demo: [https://email-finder.herokuapp.com/](https://email-finder.herokuapp.com/)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-[![Vote on PH](http://thebigpicture.io/img/ph-vote.png)](https://www.producthunt.com/posts/open-source-email-finder)
 
 
 ## How it works
