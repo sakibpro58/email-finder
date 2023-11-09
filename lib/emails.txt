@@ -1,4 +1,4 @@
-Acceptalldomain@{{domain}}
+{{fi}}.acceptall@{{domain}}
 {{fi}}{{ln}}@{{domain}}
 {{fn}}@{{domain}}
 {{fn}}.{{ln}}@{{domain}}
